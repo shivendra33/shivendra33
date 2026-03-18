@@ -1,4 +1,9 @@
+# 💫 Hi 👋, I'm Shivendra
+**A passionate AI/ML Engineer 
 
+- 🔭 **I’m currently working on:** Ent
+- 🌱 **I’m currently learning:** Adavance Deep Learning
+- 📫 **How to reach me:** shivendra8102005@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourav.ftw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivendra-pratap-singh-916bbb3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivendra8102005@gmail.com) 
