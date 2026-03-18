@@ -1,7 +1,6 @@
 # 💫 Hi 👋, I'm Shivendra
 **A passionate AI/ML Engineer 
 
-- 🔭 **I’m currently working on:** Ent
 - 🌱 **I’m currently learning:** Adavance Deep Learning
 - 📫 **How to reach me:** shivendra8102005@gmail.com
 
